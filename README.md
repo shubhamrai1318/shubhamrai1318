@@ -1,6 +1,5 @@
-![MasterHead](https://michaelwashburnjr.com/hubfs/Imported_Blog_Media/python.jpg)
 
-- 👋 <h1 align="center">Hi 👋, I'm Shubham Rai</h1>
+- <h1 align="center">Hi 👋, I'm Shubham Rai</h1>
 - <h3 align="center">👀 I’m interested in Data Science</h3>
 - <h3 align="center">👀 🌱  I’m currently exploring Machine Learning</h3>
 - <h3 align="center">👀 💞️  I’m looking for some opportunity to work in the field of data science</h3>
