@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [Machine learning](https://github.com/BioinfoMachineLearning/DeepRefine)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sagarvns](https://github.com/shubhamrai1318)
+- 👨‍💻 All of my projects are available at [https://github.com/shubhamrai1318](https://github.com/shubhamrai1318)
 
 - 📝 I regularly write articles on [GFG POTD](GFG POTD)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** , **Machine Learning**
 
 - 📫 How to reach me **shubhamrai1318@outlook.com**
 
