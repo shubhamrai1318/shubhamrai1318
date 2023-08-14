@@ -1,4 +1,6 @@
-- 👋 <h1 align="center">Hi 👋, I'm Sagar Chauhan</h1>
+![MasterHead](https://michaelwashburnjr.com/hubfs/Imported_Blog_Media/python.jpg)
+
+- 👋 <h1 align="center">Hi 👋, I'm Shubham Rai</h1>
 - <h3 align="center">👀 I’m interested in Data Science</h3>
 - <h3 align="center">👀 🌱  I’m currently exploring Machine Learning</h3>
 - <h3 align="center">👀 💞️  I’m looking for some opportunity to work in the field of data science</h3>
@@ -10,7 +12,6 @@ shubhamrai1318/shubhamrai1318 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![MasterHead](https://michaelwashburnjr.com/hubfs/Imported_Blog_Media/python.jpg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamrai&label=Profile%20views&color=0e75b6&style=flat" alt="shhubhamrai" /> </p>
