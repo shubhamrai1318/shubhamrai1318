@@ -1,5 +1,7 @@
 
 - <h1 align="center">Hi 👋, I'm Shubham Rai</h1>
+<img align="left" src="https://github.com/shubhamrai1318/shubhamrai1318/blob/main/shubham.png" alt="shubhamrai1318" />
+
 - <h3 align="center">👀 I’m interested in Data Science</h3>
 - <h3 align="center">👀 🌱  I’m currently exploring Machine Learning</h3>
 - <h3 align="center">👀 💞️  I’m looking for some opportunity to work in the field of data science</h3>
