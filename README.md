@@ -40,5 +40,5 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhamrai1318&show_icons=true&locale=en&layout=compact" alt="shubhamrai1318" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamrai1318&show_icons=true&locale=en" alt="shubhamrai1318" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhamrai1318&show_icons=true&locale=en" alt="shubhamrai1318" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrai1318&" alt="shubhamrai1318" /></p>
