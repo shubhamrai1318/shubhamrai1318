@@ -38,9 +38,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://instagram.com/shubham.rai1318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamrai" height="30" width="40" /></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamrai1318&show_icons=true&locale=en&layout=compact" alt="shubhamrai1318" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhamrai1318&show_icons=true&locale=en&layout=compact" alt="shubhamrai1318" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamrai1318&show_icons=true&locale=en" alt="shubhamrai1318" /></p>
-<p><img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adriannylelis&layout=compact&langs_count=7&theme=dracula"/></p>
+<p>      <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhamrai1318&layout=compact&langs_count=7&theme=dracula"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrai1318&" alt="shubhamrai1318" /></p>
