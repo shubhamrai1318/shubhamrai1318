@@ -21,15 +21,11 @@ You can click the Preview link to take a look at your changes.
 
  👨‍💻 All of my projects are available at [https://github.com/shubhamrai1318](https://github.com/shubhamrai1318)
 
- 📝 I regularly write articles on [GFG POTD](GFG POTD)
-
  💬 Ask me about **Python** , **Machine Learning**
 
-- 📫 How to reach me **shubhamrai1318@outlook.com**
+ 📫 How to reach me **shubhamrai1318@outlook.com**
 
- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1SPHCSKf8cWaao_6CIGTARK7s1CXXj_uT)
-
-- ⚡ Fun fact **I have gaming laptop but i dont have any game**
+ ⚡ Fun fact **I have gaming laptop but i dont have any game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
